@@ -1,2 +1,2 @@
-# Spring-Cloud-Andy
-Base on Spring Boot， Spring Cloud，Spring Cloud Alibaba
+# andy-spring-boot
+Base on Spring Boot， Spring Cloud And Spring Cloud Alibaba
